@@ -93,6 +93,9 @@
 
 ## 🚀 快速开始
 
+> 📥 **固件下载** → [**Releases**](https://github.com/flycflyg/esp32-s3-3.49-xiaozhi-clock-music/releases/latest)
+> 下载 `xiaozhi-3.49-custom-v1.2.zip`，解压后得到下面两个 bin（在 `firmware/` 目录里）
+
 ### 方式一：全量刷机（推荐给新板 / 想从干净状态开始）
 
 ```bash

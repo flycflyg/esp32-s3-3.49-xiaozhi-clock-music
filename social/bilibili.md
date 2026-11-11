@@ -58,7 +58,8 @@
 
 ━━━━━━━━━━━━━━━━━━
 📦 固件 & 源码
-GitHub：（填你的仓库地址）
+GitHub：https://github.com/flycflyg/esp32-s3-3.49-xiaozhi-clock-music
+固件下载：https://github.com/flycflyg/esp32-s3-3.49-xiaozhi-clock-music/releases/latest
 ⚠️ 只支持微雪 ESP32-S3-Touch-LCD-3.49（16MB Flash 版本）
 
 ━━━━━━━━━━━━━━━━━━
