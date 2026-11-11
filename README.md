@@ -334,6 +334,7 @@ idf_build_set_property(COMPILE_DEFINITIONS
 ## 📄 许可与致谢
 
 - 本项目基于 [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)（MIT），遵循 **MIT 协议**
+- 完整来源与修改声明见 [NOTICE.md](NOTICE.md)，许可正文见 [LICENSE](LICENSE)
 - 硬件设计 © [微雪电子 Waveshare](https://www.waveshare.com/)
 - 图形库 [LVGL](https://lvgl.io/)（MIT）
 - 音频前端 [ESP-SR](https://github.com/espressif/esp-sr)（Espressif）
