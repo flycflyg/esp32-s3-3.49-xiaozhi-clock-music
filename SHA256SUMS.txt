@@ -1,0 +1,2 @@
+0587e412b12e1e99db9acbfdd11072a16c20eb54fb4aeb92d1640ce2944c7247  firmware/xiaozhi-3.49-custom-app.bin
+2d9beaef134865f31ed1285468b716cdd2707cc4c6ab4c54e9bda70c27d76b84  firmware/xiaozhi-3.49-custom-full.bin
