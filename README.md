@@ -32,46 +32,31 @@
 <td align="center" width="50%">
 
 **待机翻页时钟**<br>
-<img src="xiaozhi-截图/01-待机时钟-真机截图.png" width="600"><br>
-<sub>真机截图 · 640×172</sub>
+<img src="xiaozhi-截图/01-待机时钟.jpg" width="600">
 
 </td>
 <td align="center" width="50%">
 
-**音乐界面**<br>
-<img src="xiaozhi-截图/02-音乐界面-真机截图.png" width="600"><br>
-<sub>真机截图 · 640×172</sub>
+**音乐播放**<br>
+<img src="xiaozhi-截图/02-音乐播放.png" width="600">
 
 </td>
 </tr>
 <tr>
-<td align="center">
-
-**音乐播放中**<br>
-<img src="xiaozhi-截图/03-音乐播放中-效果图.png" width="600"><br>
-<sub>示意图（按源码布局配色绘制）</sub>
-
-</td>
 <td align="center">
 
 **歌单列表**<br>
-<img src="xiaozhi-截图/04-歌单列表-效果图.png" width="600"><br>
-<sub>示意图（按源码布局配色绘制）</sub>
+<img src="xiaozhi-截图/03-歌单列表.png" width="600">
 
 </td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+<td align="center">
 
 **小智主界面（原厂对话功能完整保留）**<br>
-<img src="xiaozhi-截图/05-小智主界面-效果图.png" width="600"><br>
-<sub>示意图（按源码布局配色绘制）</sub>
+<img src="xiaozhi-截图/04-小智主界面.jpg" width="600">
 
 </td>
 </tr>
 </table>
-
-> 📌 标注「真机截图」的两张是从板子 framebuffer 直接抓出的原始像素；标注「示意图」的三张是按固件源码里的真实布局常量和配色值绘制，用于展示截不到的界面状态。
 
 ---
 
